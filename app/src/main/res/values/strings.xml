@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Daily Prayer</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="belum_punya_akun_signup">Belum punya akun? Signup</string>
+    <string name="email">Email</string>
+    <string name="fullname">Fullname</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sudah_punya_akun_login">Sudah punya akun? Login</string>
+    <string name="niat_sholat">Niat Sholat</string>
+    <string name="bacaan_sholat">Bacaan Sholat</string>
+    <string name="doa_harian">Doa Harian</string>
+    <string name="assalamualaikum_hamba_allah">Assalamualaikum Hamba Allah</string>
+    <string name="mari_tingkatkan_imanmu">Mari Tingkatkan Imanmu</string>
+    <string name="niat_sholat_wajib">Niat Sholat Wajib\ndan Sunnah</string>
+    <string name="bacaan_niat_sholat_wajib_5_waktu">Bacaan niat sholat wajib 5 waktu\ndan sholat sunnah</string>
+    <string name="niat">niat</string>
+    <string name="latin">latin</string>
+    <string name="terjemahan">terjemahan</string>
+    <string name="bacaan_sholat_dari_doa_iftitah_sampai_salam">Bacaan sholat dari doa iftitah\nsampai salam</string>
+    <string name="hai_hamba_allah">Hai Hamba Allah</string>
+    <string name="doa_doa_dalam_kegiatan_kita_sehari_hari">Doa-doa dalam kegiatan\nkita sehari-hari</string>
+    <string name="zikir_setelah_sholat">Dzikir Setelah Sholat</string>
+    <string name="dzikir">Dzikir</string>
+    <string name="bacaan_dzikir_setelah_sholat_wajib">Bacaan dzikir setelah sholat\nwajib</string>
+</resources>
